@@ -1,0 +1,33 @@
+body {
+  background-color: rgb(173, 201, 140);
+}
+#submitButton {
+  color: palegoldenrod;
+}
+
+#tb1 {
+  font-size: 22px;
+  color: rgb(0, 0, 0);
+  text-align: center;
+  width: 100%;
+  border: 0px solid #000;
+}
+th {
+  border: 5px solid black;
+}
+th.from,
+th.date {
+  width: 25%;
+}
+#search1 {
+  display: inline-block;
+  margin: 20px;
+  background: red;
+}
+form {
+  display: inline;
+}
+/* rgb(173,201,140)
+rgb(56,17,30)
+rgb(5,64,53)rgb(3,2,25)
+*/
